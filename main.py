@@ -1,6 +1,7 @@
 import requests
 from bs4 import BeautifulSoup
 import pandas as pd
+from icecream import ic
 
 def ReadPage(url):
     # Make a request to the website
@@ -50,15 +51,24 @@ def ReadPage(url):
     df = df.fillna('')
     df.columns = ["Champion", "Top", "Jungle", "Mid", "Bot", "Support", "Undefined"]
     roleList = ["Top", "Jungle", "Mid", "Bot", "Support", "Undefined"]
-    for role in roleList:
-        df[role] = df[role] == 'Yes'
-    df = df.iloc[:, :-1]
+    champDict = {}
+    for index, row in df.iterrows():
+        ic(row)
+        champName = row["Champion"]
+        champsRole = []
+        for role in roleList:
+            if row[role] == "Yes":
+                champsRole.append(role)
+        champDict.update({champName:champsRole})
+
+    df = pd.DataFrame(list(champDict.items()), columns=['Champion', 'Roles'])
+
     return df
 
 def main():
     ParseURL = 'https://leagueoflegends.fandom.com/wiki/List_of_champions_by_draft_position'
     champFrame = ReadPage(ParseURL)
-    print(champFrame)
+    ic(champFrame)
     champFrame.to_csv('Champs.csv', index=False)
 
 if __name__ == "__main__":

@@ -1,166 +1,166 @@
-Champion,Top,Jungle,Mid,Bot,Support
-Aatrox,True,False,False,False,False
-Ahri,False,False,True,False,False
-Akali,True,False,True,False,False
-Akshan,False,False,True,False,False
-Alistar,False,False,False,False,True
-Amumu,False,True,False,False,False
-Anivia,False,False,True,False,False
-Annie,False,False,True,False,False
-Aphelios,False,False,False,True,False
-Ashe,False,False,False,True,False
-Aurelion Sol,False,False,True,False,False
-Azir,False,False,True,False,False
-Bard,False,False,False,False,True
-Bel'Veth,False,True,False,False,False
-Blitzcrank,False,False,False,False,True
-Brand,False,False,False,False,True
-Braum,False,False,False,False,True
-Briar,False,True,False,False,False
-Caitlyn,False,False,False,True,False
-Camille,True,False,False,False,False
-Cassiopeia,True,False,True,False,False
-Cho'Gath,True,False,True,False,False
-Corki,False,False,True,False,False
-Darius,True,False,False,False,False
-Diana,False,True,True,False,False
-Dr,True,False,False,False,False
-Draven,False,False,False,True,False
-Ekko,False,True,True,False,False
-Elise,False,True,False,False,False
-Evelynn,False,True,False,False,False
-Ezreal,False,False,False,True,False
-Fiddlesticks,False,True,False,False,False
-Fiora,True,False,False,False,False
-Fizz,False,False,True,False,False
-Galio,False,False,True,False,False
-Gangplank,True,False,False,False,False
-Garen,True,False,False,False,False
-Gnar,True,False,False,False,False
-Gragas,False,True,False,False,False
-Graves,False,True,False,False,False
-Gwen,True,False,False,False,False
-Hecarim,False,True,False,False,False
-Heimerdinger,True,False,False,False,False
-Illaoi,True,False,False,False,False
-Irelia,True,False,True,False,False
-Ivern,False,True,False,False,False
-Janna,False,False,False,False,True
-Jarvan IV,False,True,False,False,False
-Jax,True,True,False,False,False
-Jayce,True,False,True,False,False
-Jhin,False,False,False,True,False
-Jinx,False,False,False,True,False
-K'Sante,True,False,False,False,False
-Kai'Sa,False,False,False,True,False
-Kalista,False,False,False,True,False
-Karma,False,False,False,False,True
-Karthus,False,True,False,False,False
-Kassadin,False,False,True,False,False
-Katarina,False,False,True,False,False
-Kayle,True,False,False,False,False
-Kayn,False,True,False,False,False
-Kennen,True,False,False,False,False
-Kha'Zix,False,True,False,False,False
-Kindred,False,True,False,False,False
-Kled,True,False,False,False,False
-Kog'Maw,False,False,False,True,False
-LeBlanc,False,False,True,False,False
-Lee Sin,False,True,False,False,False
-Leona,False,False,False,False,True
-Lillia,True,True,False,False,False
-Lissandra,False,False,True,False,False
-Lucian,False,False,False,True,False
-Lulu,False,False,False,False,True
-Lux,False,False,True,False,True
-Malphite,True,False,True,False,True
-Malzahar,False,False,True,False,False
-Maokai,True,True,False,False,True
-Master Yi,False,True,False,False,False
-Milio,False,False,False,False,True
-Miss Fortune,False,False,False,True,False
-Mordekaiser,True,False,False,False,False
-Morgana,False,False,False,False,True
-Naafiri,False,False,True,False,False
-Nami,False,False,False,False,True
-Nasus,True,False,False,False,False
-Nautilus,False,False,False,False,True
-Neeko,False,False,True,False,False
-Nidalee,False,True,False,False,False
-Nilah,False,False,False,True,False
-Nocturne,False,True,False,False,False
-Nunu & Willump,False,True,False,False,False
-Olaf,True,False,False,False,False
-Orianna,False,False,True,False,False
-Ornn,True,False,False,False,False
-Pantheon,True,False,True,False,True
-Poppy,True,True,False,False,False
-Pyke,False,False,False,False,True
-Qiyana,False,False,True,False,False
-Quinn,True,False,False,False,False
-Rakan,False,False,False,False,True
-Rammus,False,True,False,False,False
-Rek'Sai,False,True,False,False,False
-Rell,False,False,False,False,True
-Renata Glasc,False,False,False,False,True
-Renekton,True,False,True,False,False
-Rengar,True,True,False,False,False
-Riven,True,False,False,False,False
-Rumble,True,False,True,False,False
-Ryze,True,False,True,False,False
-Samira,False,False,False,True,False
-Sejuani,False,True,False,False,False
-Senna,False,False,False,False,True
-Seraphine,False,False,False,True,True
-Sett,True,False,False,False,True
-Shaco,False,True,False,False,True
-Shen,True,False,False,False,False
-Shyvana,False,True,False,False,False
-Singed,True,False,False,False,False
-Sion,True,False,False,False,False
-Sivir,False,False,False,True,False
-Skarner,False,True,False,False,False
-Sona,False,False,False,False,True
-Soraka,False,False,False,False,True
-Swain,True,False,True,True,True
-Sylas,True,False,True,False,False
-Syndra,False,False,True,False,False
-Tahm Kench,True,False,False,False,True
-Taliyah,False,True,True,False,False
-Talon,False,False,True,False,False
-Taric,False,False,False,False,True
-Teemo,True,False,False,False,False
-Thresh,False,False,False,False,True
-Tristana,False,False,False,True,False
-Trundle,False,True,False,False,False
-Tryndamere,True,False,False,False,False
-Twisted Fate,False,False,True,False,False
-Twitch,False,False,False,True,False
-Udyr,False,True,False,False,False
-Urgot,True,False,False,False,False
-Varus,False,False,False,True,False
-Vayne,True,False,False,True,False
-Veigar,False,False,True,False,False
-Vel'Koz,False,False,True,False,True
-Vex,False,False,True,False,False
-Vi,False,True,False,False,False
-Viego,False,True,False,False,False
-Viktor,False,False,True,False,False
-Vladimir,True,False,True,False,False
-Volibear,True,True,False,False,False
-Warwick,False,True,False,False,False
-Wukong,True,True,False,False,False
-Xayah,False,False,False,True,False
-Xerath,False,False,True,False,True
-Xin Zhao,False,True,False,False,False
-Yasuo,True,False,True,True,False
-Yone,True,False,True,False,False
-Yorick,True,False,False,False,False
-Yuumi,False,False,False,False,True
-Zac,False,True,False,False,False
-Zed,False,False,True,False,False
-Zeri,False,False,False,True,False
-Ziggs,False,False,False,True,False
-Zilean,False,False,False,False,True
-Zoe,False,False,True,False,False
-Zyra,False,False,False,False,True
+Champion,Roles
+Aatrox,['Top']
+Ahri,['Mid']
+Akali,"['Top', 'Mid']"
+Akshan,['Mid']
+Alistar,['Support']
+Amumu,['Jungle']
+Anivia,['Mid']
+Annie,['Mid']
+Aphelios,['Bot']
+Ashe,['Bot']
+Aurelion Sol,['Mid']
+Azir,['Mid']
+Bard,['Support']
+Bel'Veth,['Jungle']
+Blitzcrank,['Support']
+Brand,['Support']
+Braum,['Support']
+Briar,['Jungle']
+Caitlyn,['Bot']
+Camille,['Top']
+Cassiopeia,"['Top', 'Mid']"
+Cho'Gath,"['Top', 'Mid']"
+Corki,['Mid']
+Darius,['Top']
+Diana,"['Jungle', 'Mid']"
+Dr,['Top']
+Draven,['Bot']
+Ekko,"['Jungle', 'Mid']"
+Elise,['Jungle']
+Evelynn,['Jungle']
+Ezreal,['Bot']
+Fiddlesticks,['Jungle']
+Fiora,['Top']
+Fizz,['Mid']
+Galio,['Mid']
+Gangplank,['Top']
+Garen,['Top']
+Gnar,['Top']
+Gragas,['Jungle']
+Graves,['Jungle']
+Gwen,['Top']
+Hecarim,['Jungle']
+Heimerdinger,['Top']
+Illaoi,['Top']
+Irelia,"['Top', 'Mid']"
+Ivern,['Jungle']
+Janna,['Support']
+Jarvan IV,['Jungle']
+Jax,"['Top', 'Jungle']"
+Jayce,"['Top', 'Mid']"
+Jhin,['Bot']
+Jinx,['Bot']
+K'Sante,['Top']
+Kai'Sa,['Bot']
+Kalista,['Bot']
+Karma,['Support']
+Karthus,['Jungle']
+Kassadin,['Mid']
+Katarina,['Mid']
+Kayle,['Top']
+Kayn,['Jungle']
+Kennen,['Top']
+Kha'Zix,['Jungle']
+Kindred,['Jungle']
+Kled,['Top']
+Kog'Maw,['Bot']
+LeBlanc,['Mid']
+Lee Sin,['Jungle']
+Leona,['Support']
+Lillia,"['Top', 'Jungle']"
+Lissandra,['Mid']
+Lucian,['Bot']
+Lulu,['Support']
+Lux,"['Mid', 'Support']"
+Malphite,"['Top', 'Mid', 'Support']"
+Malzahar,['Mid']
+Maokai,"['Top', 'Jungle', 'Support']"
+Master Yi,['Jungle']
+Milio,['Support']
+Miss Fortune,['Bot']
+Mordekaiser,['Top']
+Morgana,['Support']
+Naafiri,['Mid']
+Nami,['Support']
+Nasus,['Top']
+Nautilus,['Support']
+Neeko,['Mid']
+Nidalee,['Jungle']
+Nilah,['Bot']
+Nocturne,['Jungle']
+Nunu & Willump,['Jungle']
+Olaf,['Top']
+Orianna,['Mid']
+Ornn,['Top']
+Pantheon,"['Top', 'Mid', 'Support']"
+Poppy,"['Top', 'Jungle']"
+Pyke,['Support']
+Qiyana,['Mid']
+Quinn,['Top']
+Rakan,['Support']
+Rammus,['Jungle']
+Rek'Sai,['Jungle']
+Rell,['Support']
+Renata Glasc,['Support']
+Renekton,"['Top', 'Mid']"
+Rengar,"['Top', 'Jungle']"
+Riven,['Top']
+Rumble,"['Top', 'Mid']"
+Ryze,"['Top', 'Mid']"
+Samira,['Bot']
+Sejuani,['Jungle']
+Senna,['Support']
+Seraphine,"['Bot', 'Support']"
+Sett,"['Top', 'Support']"
+Shaco,"['Jungle', 'Support']"
+Shen,['Top']
+Shyvana,['Jungle']
+Singed,['Top']
+Sion,['Top']
+Sivir,['Bot']
+Skarner,['Jungle']
+Sona,['Support']
+Soraka,['Support']
+Swain,"['Top', 'Mid', 'Bot', 'Support']"
+Sylas,"['Top', 'Mid']"
+Syndra,['Mid']
+Tahm Kench,"['Top', 'Support']"
+Taliyah,"['Jungle', 'Mid']"
+Talon,['Mid']
+Taric,['Support']
+Teemo,['Top']
+Thresh,['Support']
+Tristana,['Bot']
+Trundle,['Jungle']
+Tryndamere,['Top']
+Twisted Fate,['Mid']
+Twitch,['Bot']
+Udyr,['Jungle']
+Urgot,['Top']
+Varus,['Bot']
+Vayne,"['Top', 'Bot']"
+Veigar,['Mid']
+Vel'Koz,"['Mid', 'Support']"
+Vex,['Mid']
+Vi,['Jungle']
+Viego,['Jungle']
+Viktor,['Mid']
+Vladimir,"['Top', 'Mid']"
+Volibear,"['Top', 'Jungle']"
+Warwick,['Jungle']
+Wukong,"['Top', 'Jungle']"
+Xayah,['Bot']
+Xerath,"['Mid', 'Support']"
+Xin Zhao,['Jungle']
+Yasuo,"['Top', 'Mid', 'Bot']"
+Yone,"['Top', 'Mid']"
+Yorick,['Top']
+Yuumi,['Support']
+Zac,['Jungle']
+Zed,['Mid']
+Zeri,['Bot']
+Ziggs,['Bot']
+Zilean,['Support']
+Zoe,['Mid']
+Zyra,['Support']
